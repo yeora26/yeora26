@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm haike, Fullstack developer from chengdu, China.</h2>
+<h2 align="left">Hi, I'm uuaki, Fullstack developer from chengdu, China.</h2>
 
 ###
 
@@ -14,42 +14,68 @@
   </div>
 </div>
 
-###
+```bash
+uuaki@github:~$ whoami
+
+> Full Stack Developer
+> Open Source Enthusiast
+> Tech Explorer
+> Problem Solver
+> Lifelong Learner
+```
+
+```txt
+ /\_/\\
+( o.o )
+ > ^ <
+```
+
+🌸 热爱设计与代码  
+🌸 喜欢探索 AI / Web / Creative Coding  
+🌸 正在构建有趣且治愈的小项目  
+🌸 希望代码也能拥有温度
+
+---
+
+# 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uuaki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uuaki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python,go,docker,postgres,mongodb,redis,graphql&theme=light" />
+
 </div>
 
-###
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=uuaki&theme=default&hide_border=true&ring=FFB7C5&fire=FF8FAB&currStreakLabel=FF8FAB" />
+
 </div>
+
+---
+
+# 🌿 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uuaki&bg_color=ffffff&color=ff8fab&line=f9a8d4&point=ffd6e0&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=uuaki&theme=flat&no-frame=true&margin-w=15&margin-h=15" />
+
+</div>
+
+---
 
 ###
 
