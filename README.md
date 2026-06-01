@@ -69,14 +69,6 @@ uuaki@github:~$ whoami
 
 # 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=uuaki&theme=flat&no-frame=true&margin-w=15&margin-h=15" />
-
-</div>
-
----
-
 ###
 
 <br clear="both">
