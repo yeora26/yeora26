@@ -15,7 +15,7 @@
 </div>
 
 ```bash
-uuaki@github:~$ whoami
+haike@github:~$ whoami
 
 > Full Stack Developer
 > Open Source Enthusiast
@@ -66,13 +66,3 @@ uuaki@github:~$ whoami
 </div>
 
 ---
-
-# 🏆 Achievements
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yeora26/output/snake.svg" alt="Snake animation" />
-
-###
