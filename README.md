@@ -14,27 +14,6 @@
   </div>
 </div>
 
-```bash
-haike@github:~$ whoami
-
-> Full Stack Developer
-> Open Source Enthusiast
-> Tech Explorer
-> Problem Solver
-> Lifelong Learner
-```
-
-```txt
- /\_/\\
-( o.o )
- > ^ <
-```
-
-🌸 热爱设计与代码  
-🌸 喜欢探索 AI / Web / Creative Coding  
-🌸 正在构建有趣且治愈的小项目  
-🌸 希望代码也能拥有温度
-
 ---
 
 # 🛠 Tech Stack
