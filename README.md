@@ -48,9 +48,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeora26&theme=default" />
 </div>
 
-# Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeora26&bg_color=ffffff&color=ff8fab&line=f9a8d4&point=ffd6e0&area=true&hide_border=true" />
-</div>
-
