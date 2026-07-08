@@ -23,15 +23,12 @@
   <img src="https://komarev.com/ghpvc/?username=yeora26&label=Views&color=orange&style=flat" alt="访问量统计" />
 </div>
 
----
-
 # Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,next,nodejs,vite,tailwind,python,pytorch,go,docker,postgres,mongodb,redis,graphql,git,github,vscode,figma&theme=light" />
 </div>
 
----
 
 # GitHub Stats
 
@@ -45,8 +42,6 @@
 <div align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yeora26&theme=default&hide_border=true&ring=FFB7C5&fire=FF8FAB&currStreakLabel=FF8FAB" />
 </div>
-
----
 
 # Contribution Graph
 
