@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF75C&center=true&vCenter=true&width=435&lines=Console.log(Hello+World!))](https://git.io/typing-svg)
   <!-- profile logo 个人资料徽标 -->
   <div>
@@ -14,27 +13,18 @@
   </div>
 </div>
 
----
-
 # 🛠 Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,python,go,docker,postgres,mongodb,redis,graphql&theme=light" />
-
 </div>
-
----
 
 # 📈 GitHub Stats
 
 <div align="center">
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yeora26&theme=default&hide_border=true&ring=FFB7C5&fire=FF8FAB&currStreakLabel=FF8FAB" />
-
 </div>
 
----
 
 # 🌿 Contribution Graph
 
@@ -43,5 +33,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeora26&bg_color=ffffff&color=ff8fab&line=f9a8d4&point=ffd6e0&area=true&hide_border=true" />
 
 </div>
-
----
