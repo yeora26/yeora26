@@ -38,7 +38,7 @@
 # Profile Summary
 
 <div align="center">
-  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeora26&theme=default](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeora26&theme=github)" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeora26&theme=github" />
 </div>
 
 <br />
