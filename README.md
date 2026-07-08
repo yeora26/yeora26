@@ -43,14 +43,22 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yeora26&theme=default&hide_border=true&ring=FFB7C5&fire=FF8FAB&currStreakLabel=FF8FAB" />
 </div>
 
+# Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeora26&theme=yeblu" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeora26&theme=yeblu&utcOffset=8" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeora26&theme=yeblu" />
+</div>
+
 # Contribution Graph
 
 <div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeora26&theme=yeblu)
-</div>
-
-<div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeora26&theme=yeblu&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeora26&theme=yeblu)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeora26&bg_color=ffffff&color=ff8fab&line=f9a8d4&point=ffd6e0&area=true&hide_border=true" />
 </div>
 
