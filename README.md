@@ -46,14 +46,14 @@
 # Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeora26&theme=yeblu" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeora26&theme=default" />
 </div>
 
 <br />
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeora26&theme=yeblu&utcOffset=8" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeora26&theme=yeblu" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeora26&theme=default&utcOffset=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeora26&theme=default" />
 </div>
 
 # Contribution Graph
