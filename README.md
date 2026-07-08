@@ -31,14 +31,6 @@
 
 
 # GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yeora26&show_icons=true&theme=default&hide_border=true&title_color=ff8fab&icon_color=ff8fab&text_color=333333" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeora26&layout=compact&theme=default&hide_border=true&title_color=ff8fab&text_color=333333" />
-</div>
-
-<br />
-
 <div align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yeora26&theme=default&hide_border=true&ring=FFB7C5&fire=FF8FAB&currStreakLabel=FF8FAB" />
 </div>
@@ -46,14 +38,14 @@
 # Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeora26&theme=default" />
+  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeora26&theme=default](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeora26&theme=github)" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeora26&theme=default&utcOffset=8" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeora26&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeora26&theme=default&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeora26&theme=default" />
 </div>
 
 # Contribution Graph
