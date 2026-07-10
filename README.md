@@ -26,7 +26,7 @@
 # Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,next,nodejs,vite,tailwind,python,docker,postgresredis,git,github,vscode,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,next,nodejs,vite,tailwind,python,docker,git,github,figma&theme=light" />
 </div>
 
 
