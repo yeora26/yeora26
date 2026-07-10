@@ -1,12 +1,12 @@
 <h1 align="left">👋 Hi there! Welcome to my profile!</h1>
 
 <p align="left">
-  I'm <b>yeora</b>, a fullstack developer from Chengdu, China.
+  I'm <b>yeora</b>, a software engineer from Chengdu, China.
 </p>
 
 <ul>
   <li>👨‍💻 TypeScript / Vue / React enthusiast.</li>
-  <li>🌱 Learning more about frontend engineering, backend development and AI.</li>
+  <li>🌱 Learning more about frontend engineering, UI/UX Design，Psychology and AI.</li>
 </ul>
 
 ###
@@ -26,7 +26,7 @@
 # Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,next,nodejs,vite,tailwind,python,pytorch,go,docker,postgres,mongodb,redis,graphql,git,github,vscode,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,next,nodejs,vite,tailwind,python,docker,postgresredis,git,github,vscode,figma&theme=light" />
 </div>
 
 
