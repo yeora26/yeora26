@@ -6,7 +6,7 @@
 
 <ul>
   <li>👨‍💻 TypeScript / Vue / React enthusiast.</li>
-  <li>🌱 Learning more about Frontend Engineering, UI/UX Design, Psychology and AI.</li>
+  <li>🌱 Learning more about Frontend Engineering, UI/UX Design, AI.</li>
 </ul>
 
 ###
